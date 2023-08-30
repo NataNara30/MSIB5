@@ -2,3 +2,4 @@ Nama: Nata Nara Narendra
 Universitas: Universitas Udayana
 Prodi: Teknologi Informasi
 Semester: 5
+IPK: 3.43
